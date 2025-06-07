@@ -107,6 +107,7 @@ Tolong baca dan pahami kedua dokumen ini secara menyeluruh. Setelah Anda selesai
 5.  **Identifikasi & Instalasi Dependensi Tambahan**: Berdasarkan diskusi, daftarkan dependensi (npm packages) tambahan yang kita sepakati perlu diinstal. Minta persetujuan saya sebelum Anda mengusulkan perintah instalasinya.
 6.  **Pembuatan Kode Awal (Stubs/Boilerplate)**: Usulkan pembuatan *stubs* atau *boilerplate code* awal untuk beberapa komponen kunci, layanan, atau definisi tipe data utama.
 7.  **Desain Skema Database (jika menggunakan Supabase)**: Jika proyek kita akan menggunakan Supabase secara ekstensif, bantu saya merancang skema tabel awal atau skrip migrasi dasar berdasarkan model data yang telah kita diskusikan.
+8.  **Pembuatan Aturan Windsurf Lokal (`.windsurfrules`)**: Berdasarkan pemahaman Anda tentang proyek ini, standar coding yang kita sepakati, dan alur kerja pengembangan yang direncanakan, usulkan dan bantu saya membuat konten untuk file `.windsurfrules` lokal. Aturan ini harus membantu menjaga konsistensi dan kualitas kode selama pengembangan.
 Sampaikan rencana tindakan Anda secara detail untuk setiap poin di atas sebelum Anda mulai mengerjakannya."
 
 ## Fase 4: Pengembangan Iteratif (User Memandu AI Agent)

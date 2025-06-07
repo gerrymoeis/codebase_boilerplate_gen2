@@ -34,8 +34,9 @@ Pada fase ini, User dan AI Agent bekerja sama untuk membangun fondasi proyek yan
     *   Dokumen ini harus mencakup tujuan proyek, target pengguna, fitur inti (MVP) beserta deskripsinya, model data awal (jika sudah teridentifikasi), dan pilihan teknologi tambahan.
 
 5.  **Setup Memori & Aturan Proyek Awal**:
-    *   **AI Agent**: Berdasarkan diskusi, AI Agent dapat mengusulkan atau membuat "Memori Proyek" dan "Aturan Proyek" awal untuk memastikan konsistensi dan pemahaman bersama.
-    *   **User**: Meninjau dan menyetujui memori serta aturan tersebut.
+    *   **AI Agent**: Berdasarkan diskusi, AI Agent dapat mengusulkan atau membuat "Memori Proyek" dan "Aturan Proyek" awal (termasuk preferensi gaya coding, penamaan, dll.) untuk memastikan konsistensi.
+    *   **Kolaborasi User & AI Agent**: Mendefinisikan dan membuat file `.windsurfrules` yang berisi aturan-aturan spesifik proyek untuk menjaga konsistensi, gaya kode, dan praktik terbaik yang disepakati. AI Agent dapat membantu mengusulkan aturan berdasarkan karakteristik proyek.
+    *   **User**: Meninjau dan menyetujui memori proyek, aturan proyek, dan `.windsurfrules` yang telah dibuat.
 
 ### Fase 2: Perencanaan Kolaboratif & Desain Rinci (User & AI Agent)
 
