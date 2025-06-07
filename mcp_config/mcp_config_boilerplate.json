@@ -1,0 +1,34 @@
+{
+    "mcpServers": {
+      "supabase": {
+        "command": "cmd",
+        "args": [
+          "/c",
+          "npx",
+          "-y",
+          "@supabase/mcp-server-supabase@latest",
+          "--access-token",
+          "<SUPABASE_ACCESS_TOKEN>"
+        ]
+      },
+      "context7": {
+        "command": "npx",
+        "args": ["-y", "@upstash/context7-mcp"],
+        "env": {
+          "DEFAULT_MINIMUM_TOKENS": "6000"
+        }
+      },
+      "webresearch": {
+        "command": "npx",
+        "args": ["-y", "@mzxrai/mcp-webresearch@latest"]
+      },
+      "@magicuidesign/mcp": {
+        "command": "npx",
+        "args": ["-y", "@magicuidesign/mcp@latest"]
+      },
+      "vibe": {
+        "command": "npx",
+        "args": ["@vibe/mcp"]
+      }
+    }
+  }

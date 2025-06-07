@@ -1,0 +1,86 @@
+Project Title: Codebase Boilerplate Gen2
+
+1.  Introduction:
+    A comprehensive, robust, and scalable Next.js boilerplate to kickstart ambitious web development projects, with a focus on modern tech stacks, AI integration (including MCPs), and excellent developer experience.
+
+2.  Goals:
+    - Provide a feature-rich, production-ready Next.js boilerplate.
+    - Accelerate initial project setup and development time.
+    - Promote best practices in web development (Next.js, TypeScript, Tailwind CSS).
+    - Ensure code scalability, maintainability, and performance.
+    - Facilitate seamless integration with AI tools, MCPs, and backend services like Supabase.
+
+3.  Target Audience:
+    - Individual developers seeking a quick start for Next.js projects.
+    - Small to medium-sized teams needing a solid foundation.
+    - Projects requiring Supabase integration and AI/MCP capabilities.
+
+4.  Core Features:
+
+    4.1. Project Foundation:
+        - Optimized Next.js (App Router) and TypeScript setup.
+        - Clear, intuitive folder structure (`src/app`, `src/components`, `src/lib`, etc.).
+        - Pre-configured ESLint, Prettier for code quality.
+        - Efficient environment variable management.
+
+    4.2. UI/UX Development:
+        - Full Tailwind CSS integration (theming, dark mode, responsive).
+        - Example UI components using libraries like ShadCN UI, Aceternity UI.
+        - Basic layout structure (Header, Footer, Sidebar).
+        - Animation support via Framer Motion / Tailwind utilities.
+
+    4.3. Navigation and Routing:
+        - Next.js App Router implementation.
+        - Sample pages (Home, About, Dashboard).
+        - Basic navigation components.
+        - Example of protected routes.
+
+    4.4. State Management:
+        - Guidance or examples for React Context API / Zustand / Redux Toolkit.
+
+    4.5. Backend & API Integration:
+        - Examples of Next.js API Routes.
+        - Supabase integration:
+            - Client setup.
+            - CRUD operation examples.
+            - Supabase Auth (login, register, social login).
+        - Data fetching patterns (SWR/React Query).
+
+    4.6. SEO Optimization:
+        - Dynamic meta tags (title, description).
+        - Open Graph and Twitter Card support.
+        - Basic `robots.txt` and `sitemap.xml`.
+        - JSON-LD structured data examples.
+
+    4.7. Developer Experience:
+        - Comprehensive NPM scripts (dev, build, lint, test).
+        - Optional Husky & lint-staged integration.
+
+    4.8. AI & MCP Integration:
+        - Code structure designed for AI code editor compatibility.
+        - `mcp_config` directory with example configurations.
+        - Documentation snippets for using Task Master, Context7, Supabase MCP.
+
+    4.9. Testing:
+        - Basic setup for Jest & React Testing Library.
+        - Example unit tests.
+
+    4.10. Documentation:
+        - Detailed `README.md` (setup, usage, structure).
+        - `CONTRIBUTING.md` guidelines.
+        - Well-commented code.
+
+    4.11. Deployment:
+        - Netlify-ready configuration.
+        - Optional `netlify.toml` for advanced settings.
+
+5.  Non-Functional Requirements:
+    - Performance: Optimized for fast load times.
+    - Security: Adherence to web security best practices.
+    - Scalability: Architecture supports growth.
+    - Maintainability: Clean, modular, and understandable code.
+
+6.  Success Metrics:
+    - Boilerplate adopted for at least 3 diverse projects.
+    - Positive user feedback on ease of use and feature set.
+    - Setup and initial configuration achievable within 30 minutes.

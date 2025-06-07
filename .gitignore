@@ -43,21 +43,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# scripts and prd file
-/scripts
-/prd.txt
-
-# rules
-/rules
-/.windsurfrules
-
-# mcp config
-/mcp_config
-/mcp_config_boilerplate.json
-
-# Logs
-/logs
-
 # Editor directories and files
 .idea
 .vscode
