@@ -101,7 +101,7 @@ Tolong baca dan pahami kedua dokumen ini secara menyeluruh. Setelah Anda selesai
 **Prompt 3.3 (User ke AI Agent): Perencanaan Kolaboratif & Setup Awal Proyek Berdasarkan Hasil Diskusi**
 "AI Agent, setelah sesi tanya jawab detail kita selesai dan Anda merasa telah memiliki pemahaman yang solid dan komprehensif tentang proyek ini, saya ingin Anda membantu saya dalam langkah-langkah perencanaan dan setup awal berikut:
 1.  **Ringkasan Pemahaman & Konfirmasi**: Berikan saya ringkasan poin-poin kunci pemahaman Anda tentang proyek ini, termasuk tujuan, fitur utama, target pengguna, batasan, dan preferensi teknis/desain. Minta konfirmasi dari saya apakah ringkasan tersebut akurat.
-2.  **Pembaruan Dokumen Proyek**: Jika ada perubahan atau penambahan detail signifikan dari hasil diskusi kita, bantu saya memperbarui `docs/project/project_functional_requirements.md` dan PRD proyek.
+2.  **Pembaruan Dokumen Proyek**: Jika ada perubahan atau penambahan detail signifikan dari hasil diskusi kita, bantu saya memperbarui `docs/project/project_functional_requirements.md` dan PRD proyek `scripts/prd.txt`.
 3.  **Pembuatan Memori & Aturan Proyek**: Buat 'Memori Proyek' yang komprehensif dan 'Aturan Proyek' (jika ada aturan spesifik gaya coding, penamaan, dll.) berdasarkan semua informasi yang terkumpul. Sajikan ini kepada saya untuk ditinjau.
 4.  **Rencana Struktur Proyek Awal**: Usulkan struktur direktori awal untuk fitur-fitur utama dan modul-modul penting. Diskusikan pro dan kontra dari usulan Anda.
 5.  **Identifikasi & Instalasi Dependensi Tambahan**: Berdasarkan diskusi, daftarkan dependensi (npm packages) tambahan yang kita sepakati perlu diinstal. Minta persetujuan saya sebelum Anda mengusulkan perintah instalasinya.
